@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Polished Client",
+  "description": "A feature-complete, privacy-first client for Google's Gemini models, built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
